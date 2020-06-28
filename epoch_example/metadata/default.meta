@@ -1,0 +1,9 @@
+[macros]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+
+[fields]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
